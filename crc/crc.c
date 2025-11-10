@@ -1,18 +1,4 @@
-/**
- * \file
- * Functions and types for CRC checks.
- *
- * Generated on Fri Dec 27 20:22:19 2019
- * by pycrc v0.9.2, https://pycrc.org
- * using the configuration:
- *  - Width         = 32
- *  - Poly          = 0x04c11db7
- *  - XorIn         = 0xffffffff
- *  - ReflectIn     = True
- *  - XorOut        = 0xffffffff
- *  - ReflectOut    = True
- *  - Algorithm     = table-driven
- */
+
 #include "crc.h"     /* include the header file generated with pycrc */
 #include <stdlib.h>
 #include <stdint.h>
